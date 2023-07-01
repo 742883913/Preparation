@@ -3,3 +3,5 @@
 ## Author:王姆斯
 
 [Physics](/Physics.md)
+
+[Physical terms](/PhysicalTerms.md)
