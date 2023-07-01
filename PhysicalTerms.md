@@ -23,3 +23,5 @@ perpendicular to|垂直于
 sinusoidal|正弦曲线
 magnitude|大小
 displacement|位移
+matter waves|物质波
+equilibrium|平衡

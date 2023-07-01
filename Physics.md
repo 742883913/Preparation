@@ -29,12 +29,24 @@
 
     $$ y(x,t)=y_m sin(kx-\omega t ) $$
 
-    Where $y_m$ is the **amplitude** , $k$ is the angular wave number, $\omega$ is the angular frequency, $kx-\omega t$ is the phase
+    Where $y_m$ is the **amplitude** , $k$ is the **angular wave number** , $\omega$ is the **angular frequency** , $kx-\omega t$ is the **phase**
 
  3. Formula
 
-    $$\begin{cases}
-        k=\frac{2\pi}{\lambda}\\
-        T=\frac{2\pi}{\omega}=\frac{1}{f}\\
-        v(speed)=\frac{\omega}{k}=\frac{\lambda}{T}=\lambda f
-    \end{cases}$$
+    $$\begin{split}
+        &k=\frac{2\pi}{\lambda}\\
+        &T=\frac{2\pi}{\omega}=\frac{1}{f}\\
+        &v(speed)=\frac{\omega}{k}=\frac{\lambda}{T}=\lambda f
+    \end{split}$$
+
+ 4. Wave expression
+   
+   Any waves can be represented by a formula like 
+
+   $$y(x,t)=h\sin(kx\pm \omega t)$$
+
+   plus sign denotes a wave travelling to the negative direction and minus sign a wave travelling to the positive direction.
+
+## Chapter 1
+
+- Waves are of three main types: Mechanical waves;Electromagnetic waves;Matter waves.
