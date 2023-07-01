@@ -50,3 +50,8 @@
 ## Chapter 1
 
 - Waves are of three main types: Mechanical waves;Electromagnetic waves;Matter waves.
+- Phase constant $\phi,y_m\sin(kx \pm \omega t \pm \phi)$: Positive of phase constant shifts the curve to the negative direction; Negative phase constant shifts the curve to the positive direction.
+- A travelling wave must be represented as $y(x,t)=h(kx\pm \omega t)$
+- Transverse velocity $u$ equals to
+  
+  $$u=\frac{\partial y}{\partial t}$$

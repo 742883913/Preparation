@@ -25,3 +25,7 @@ magnitude|大小
 displacement|位移
 matter waves|物质波
 equilibrium|平衡
+curve|曲线
+derivative of|导数
+velocity|速度
+acceleration|加速度
