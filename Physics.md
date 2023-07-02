@@ -13,6 +13,13 @@
 
 - [Waves](#waves)
 - [Thermodynamics](#thermodynamics)
+    - [**The zeroth law of thermodynamics**](#the-zeroth-law-of-thermodynamics)
+    - [**Measuring temperature**](#measuring-temperature)
+    - [**Thermal expension**](#thermal-expension)
+    - [**The Definition of Heat**](#the-definition-of-heat)
+    - [**Aborption of heat**](#aborption-of-heat)
+
+
 
 
 
