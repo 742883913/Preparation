@@ -42,3 +42,5 @@ molar specific heat|摩尔比热容
 mass|质量
 the heat capacity|热容
 work|功
+denominator|分母
+numerator|分子

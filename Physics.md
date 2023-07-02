@@ -122,9 +122,21 @@
 
   $$Q=cm\Delta T$$
 
+<div align="center"><img src="./Pic/specificheat.png" width="400"></div>
+
   (4) Molar specific heat 摩尔比热容
+
+   $1$mol=$6.02\times 10^{23}$ elementary units
+
+  (5) Heat of Transformation
+
+   Heat of transformation $L$ is related to the heat that a sample needs to completely undergoes the phase of change.
+
+   $$Q=Lm$$
   
- 
+   $L_F$ means the heat needed to transform the sample from solid to liquid or vice versa; $L_V$ means the heat needed to transform the sample from liquid to gas or vice versa.
+
+   <div align="center"><img src="./Pic/Heattranformation.png" width="400"></div>
 
   
 
