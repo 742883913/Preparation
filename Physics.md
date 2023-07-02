@@ -11,14 +11,16 @@
 </head>
 
 
+- [Waves](#waves)
+- [Thermodynamics](#thermodynamics)
 
 
 
 # Waves
 
-## Chapter 1
+ Chapter 1
 
-### Key Ideas
+ Key Ideas
 
  1. Types of waves
 
@@ -58,7 +60,7 @@
   
   $$u=\frac{\partial y}{\partial t}$$
 
-## Chapter 2:Wave speed on a stretched string(467)
+ Chapter 2:Wave speed on a stretched string(467)
 
 - Physical quantities
   
@@ -70,13 +72,13 @@
 
 # Thermodynamics
 
-**The zeroth law of thermodynamics**
+### **The zeroth law of thermodynamics**
  
   When two bodies are in thermal equilibrium, their temperatures are equal.
 
-**Measuring temperature**
+### **Measuring temperature**
  
- (1) $273.15 kelvins=0 ^\circ  C$
+ (1) $273.15$ kelvins $=0 ^\circ  C$
  
  (2) Celsius temperature scale 
   
@@ -86,35 +88,42 @@
   
   $$T_F=\frac{9}{5}T_c+32 ^\circ C$$
 
-**Thermal expension**
+### **Thermal expension**
   
-  (1)Linear expension:
+  (1) Linear expension:
   
   $$\Delta L=L \times \alpha \times \Delta T$$
    
   $, \alpha$ is a given constant value
   
-  (2)Volume expension: 
+  (2) Volume expension: 
    
   $$\Delta V=V \times \beta \times \Delta T$$
    
   ,$\beta =3\alpha \leftarrow$ just in solid.
    
-**The Definition of Heat**
+### **The Definition of Heat**
    
   Heat is an energy that transferred between system and environment because a temperature difference between them.Heat is a transferred energy and it is not intrinsic property.
 
-**Aborption of heat**
+### **Aborption of heat**
   
-  (1)$1$ Calories(Cal)=$4.1868$ Jouls(J)
+  (1) $1$ Calories(Cal)=$4.1868$ Jouls(J)
 
-  (2)<front color=red>Heat Capacity</front>
+  (2) Heat Capacity 热容
   
-  Heat capacity $C$ is a proportionality constant between the heat absorbed $Q$ and temperature changed $\Delta T:$
+   Heat capacity $C$ is a proportionality constant between the heat absorbed $Q$ and temperature changed $\Delta T:$
 
   $$Q=C\Delta T$$ 
 
-  (3)Specific heat
+  (3) Specific heat 比热容
+
+   Specific heat is a heat capacity per unit mass:
+
+  $$Q=cm\Delta T$$
+
+  (4) Molar specific heat 摩尔比热容
+  
  
 
   
