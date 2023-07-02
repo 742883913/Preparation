@@ -29,3 +29,13 @@ curve|曲线
 derivative of|导数
 velocity|速度
 acceleration|加速度
+elasticity|弹性
+stationary|静止的
+
+# Thermodynamics
+
+Name|Meaning
+---|---
+calibrate|校准
+coexiste|并存
+molar specific heat|摩尔比热容

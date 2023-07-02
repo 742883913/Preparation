@@ -12,9 +12,13 @@
 
 
 
+
+
 # Waves
 
-## Key Ideas
+## Chapter 1
+
+### Key Ideas
 
  1. Types of waves
 
@@ -47,11 +51,37 @@
 
    plus sign denotes a wave travelling to the negative direction and minus sign a wave travelling to the positive direction.
 
-## Chapter 1
-
 - Waves are of three main types: Mechanical waves;Electromagnetic waves;Matter waves.
 - Phase constant $\phi,y_m\sin(kx \pm \omega t \pm \phi)$: Positive of phase constant shifts the curve to the negative direction; Negative phase constant shifts the curve to the positive direction.
 - A travelling wave must be represented as $y(x,t)=h(kx\pm \omega t)$
 - Transverse velocity $u$ equals to
   
   $$u=\frac{\partial y}{\partial t}$$
+
+## Chapter 2:Wave speed on a stretched string(467)
+
+- Physical quantities
+  
+  Name|Formula
+  ---|---
+  linear density|$\mu =\frac{m}{l}$
+  wave speed on strings|$v=\sqrt{\frac{\tau}{\mu}},\tau$ the tension of string
+
+
+# Thermodynamics
+
+ 1.  The zeroth law of thermodynamics: When two bodies are in thermal equilibrium, their temperatures are equal.
+
+ 2. Measuring temperature
+   - 273.15 kelvins=0 $^\circ  C$
+   - Celsius temperature scale $T_c=T-273.15k$
+   - Farenheit temperature scale $T_F=\frac{9}{5}T_c+32 ^\circ C$
+
+ 3. Thermal expension
+   - Linear expension:$\Delta L=L \times \alpha \times \Delta T, \alpha$ is a given constant value
+   - Volume expension: $\Delta V=V \times \beta \times \Delta T, \beta =3\alpha \leftarrow$ just in solid.
+
+ 4. Aborption of heat
+
+
+
