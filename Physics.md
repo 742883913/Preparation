@@ -70,18 +70,44 @@
 
 # Thermodynamics
 
- 1.  The zeroth law of thermodynamics: When two bodies are in thermal equilibrium, their temperatures are equal.
+1.  **The zeroth law of thermodynamics**
+ 
+  When two bodies are in thermal equilibrium, their temperatures are equal.
 
- 2. Measuring temperature
-   - 273.15 kelvins=0 $^\circ  C$
-   - Celsius temperature scale $T_c=T-273.15k$
-   - Farenheit temperature scale $T_F=\frac{9}{5}T_c+32 ^\circ C$
+2. **Measuring temperature**
+ - $273.15 kelvins=0 ^\circ  C$
+ - Celsius temperature scale 
+  
+  $$T_c=T-273.15k$$
 
- 3. Thermal expension
-   - Linear expension:$\Delta L=L \times \alpha \times \Delta T, \alpha$ is a given constant value
-   - Volume expension: $\Delta V=V \times \beta \times \Delta T, \beta =3\alpha \leftarrow$ just in solid.
+ - Farenheit temperature scale 
+  
+  $$T_F=\frac{9}{5}T_c+32 ^\circ C$$
 
- 4. Aborption of heat
+3. **Thermal expension**
+ - Linear expension:
+  
+  $$\Delta L=L \times \alpha \times \Delta T$$
+   
+  $, \alpha$ is a given constant value
+  
+ - Volume expension: 
+   
+  $$\Delta V=V \times \beta \times \Delta T$$
+   
+  ,$\beta =3\alpha \leftarrow$ just in solid.
+  
+4. **The Definition of Heat**
+   
+  Heat is an energy that transferred between system and environment because a temperature difference between them.Heat is a transferred energy and it is not intrinsic property.
+
+ 
+5. **Aborption of heat**
+ - $1$ Calories(Cal)=$4.1868$ Jouls(J)
+ - <front color=red>Heat Capacity</front>
+  
+
+   
 
 
 

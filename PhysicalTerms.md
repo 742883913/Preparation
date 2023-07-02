@@ -39,3 +39,6 @@ Name|Meaning
 calibrate|校准
 coexiste|并存
 molar specific heat|摩尔比热容
+mass|质量
+the heat capacity|热容
+work|功
