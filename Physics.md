@@ -46,11 +46,11 @@
 
  3. Formula
 
-    $$\begin{split}
+    $$\begin{cases}
         &k=\frac{2\pi}{\lambda}\\
         &T=\frac{2\pi}{\omega}=\frac{1}{f}\\
         &v(speed)=\frac{\omega}{k}=\frac{\lambda}{T}=\lambda f
-    \end{split}$$
+    \end{cases}$$
 
  4. Wave expression
    
