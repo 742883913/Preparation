@@ -26,3 +26,31 @@ disjoint event|互斥事件
 
 ### Formula
 
+$$\begin{pmatrix}
+  n\\
+  k
+\end{pmatrix}=\begin{pmatrix}
+  n\\
+  n-k
+\end{pmatrix}$$
+
+$$n\begin{pmatrix}
+  n-1\\
+  k-1
+\end{pmatrix}=k\begin{pmatrix}
+  n\\
+  k
+\end{pmatrix}$$
+
+$$\begin{pmatrix}
+  m+n\\
+  k
+\end{pmatrix}=\sum _{j=0}^k\begin{pmatrix}
+  m\\
+  j
+\end{pmatrix}\begin{pmatrix}
+  n\\
+  k-j
+\end{pmatrix}$$
+
+$$\frac{2n}{2^n \cdot n!}=(2n-1)(2n-3)\cdots 3 \cdot 1$$
