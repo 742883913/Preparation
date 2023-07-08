@@ -25,6 +25,25 @@
 
 # Waves
 
+Name|Meaning
+---|---
+transverse waves|横波
+longitudinal waves|纵波
+particle|粒子
+oscillate|震动
+perpendicular to|垂直于
+sinusoidal|正弦曲线
+magnitude|大小
+displacement|位移
+matter waves|物质波
+equilibrium|平衡
+curve|曲线
+derivative of|导数
+velocity|速度
+acceleration|加速度
+elasticity|弹性
+stationary|静止的
+
  Chapter 1
 
  Key Ideas
@@ -78,6 +97,17 @@
 
 
 # Thermodynamics
+
+Name|Meaning
+---|---
+calibrate|校准
+coexiste|并存
+molar specific heat|摩尔比热容
+mass|质量
+the heat capacity|热容
+work|功
+denominator|分母
+numerator|分子
 
 ### **The zeroth law of thermodynamics**
  
