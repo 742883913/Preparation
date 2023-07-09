@@ -12,6 +12,7 @@
 
 # Chapter 1
 
+## Terms
 Name|Meaning
 ---|---
 sample space|样本空间
@@ -23,8 +24,10 @@ union|并集
 intersection|交集
 permute/permutation|排列
 disjoint event|互斥事件
+Bayes's rule|贝叶斯公式
+the law of total probability|全概率公式
 
-### Formula
+## Quality
 
 $$\begin{pmatrix}
   n\\
@@ -54,3 +57,11 @@ $$\begin{pmatrix}
 \end{pmatrix}$$
 
 $$\frac{2n}{2^n \cdot n!}=(2n-1)(2n-3)\cdots 3 \cdot 1$$
+
+## Conditional Probability
+
+**Definition:**
+
+$P(A\lvert B)$ is the probability of A given the evidence B.
+
+
