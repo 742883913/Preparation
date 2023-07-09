@@ -4,6 +4,6 @@
 
 [Physics](/Physics.md)
 
-[Terms of Physics](/PhysicalTerms.md)
+[Probability](/Probability.md)
 
 [Calculus](/Calculus.md)
