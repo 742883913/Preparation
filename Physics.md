@@ -10,15 +10,13 @@
   </script>
 </head>
 
-
 - [Waves](#waves)
 - [Thermodynamics](#thermodynamics)
-    - [**The zeroth law of thermodynamics**](#the-zeroth-law-of-thermodynamics)
-    - [**Measuring temperature**](#measuring-temperature)
-    - [**Thermal expension**](#thermal-expension)
-    - [**The Definition of Heat**](#the-definition-of-heat)
-    - [**Aborption of heat**](#aborption-of-heat)
-
+  - [The zeroth law of thermodynamics](#the-zeroth-law-of-thermodynamics)
+  - [Measuring temperature](#measuring-temperature)
+  - [Thermal expension](#thermal-expension)
+  - [Aborption of heat](#aborption-of-heat)
+  - [The First Law OF Thermodynamics](#the-first-law-of-thermodynamics)
 
 
 
@@ -43,6 +41,8 @@ velocity|速度
 acceleration|加速度
 elasticity|弹性
 stationary|静止的
+internal energy|内能
+
 
  Chapter 1
 
@@ -108,12 +108,24 @@ the heat capacity|热容
 work|功
 denominator|分母
 numerator|分子
+expand|膨胀
+contract|收缩
+piston|活塞
+insulating|绝缘的
+reservoir|储存器
+pressure varies with volume|气压随着体积改变
+the principle of energy conservation|能量守恒定律
+kinetic energy|动能
+potential energy|势能
+adiabatic|绝热
+cyclical|循环的
 
-### **The zeroth law of thermodynamics**
+
+## The zeroth law of thermodynamics
  
   When two bodies are in thermal equilibrium, their temperatures are equal.
 
-### **Measuring temperature**
+## Measuring temperature
  
  (1) $273.15$ kelvins $=0 ^\circ  C$
  
@@ -125,7 +137,7 @@ numerator|分子
   
   $$T_F=\frac{9}{5}T_c+32 ^\circ C$$
 
-### **Thermal expension**
+## Thermal expension
   
   (1) Linear expension:
   
@@ -139,11 +151,15 @@ numerator|分子
    
   ,$\beta =3\alpha \leftarrow$ just in solid.
    
-### **The Definition of Heat**
    
   Heat is an energy that transferred between system and environment because a temperature difference between them.Heat is a transferred energy and it is not intrinsic property.
 
-### **Aborption of heat**
+## Aborption of heat
+
+ The Definition of Heat:
+  
+  Heat is an energy that transferred between system and environment because a temperature difference between them.Heat is a transferred energy and it is not intrinsic property.
+
   
   (1) $1$ Calories(Cal)=$4.1868$ Jouls(J)
 
@@ -175,8 +191,15 @@ numerator|分子
 
    <div align="center"><img src="./Pic/Heattranformation.png" width="400"></div>
 
-  
+## The First Law OF Thermodynamics
 
+**The work done by the gas**
+
+$$dW=\vec{F}\cdot d\vec{l}=(pA)(dl)=pdV \rightarrow W=\int dw=\int ^{v_2}_{v_1}pdV$$
+
+**Internal Energy(First law)**
+
+$$\Delta E_{int}=Q-W$$
    
 
 
