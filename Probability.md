@@ -13,6 +13,7 @@
 # Chapter 1
 
 ## Terms
+
 Name|Meaning
 ---|---
 sample space|样本空间

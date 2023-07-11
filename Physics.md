@@ -41,7 +41,7 @@ velocity|速度
 acceleration|加速度
 elasticity|弹性
 stationary|静止的
-internal energy|内能
+
 
 
  Chapter 1
@@ -119,6 +119,7 @@ kinetic energy|动能
 potential energy|势能
 adiabatic|绝热
 cyclical|循环的
+internal energy|内能
 
 
 ## The zeroth law of thermodynamics
