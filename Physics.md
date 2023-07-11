@@ -218,23 +218,25 @@ $$P_{cond}=\frac{Q}{t}=kA\frac{T_H-T_C}{h}=A\frac{T_H-T_C}{R}$$
 
 in which $k$ is a constant depend on the material of the slab, called *thermal conductivity*, $A$ is the face area of slab, $h$ is the thickness of the slab.
 
-*Figure*
+
 
 <div align="center"><img src="./Pic/Thermalconduction.png" width="400"></div>
 
-*Thermal conductivity*
+<div align="center">Figure</div>
 
 <div align="center"><img src="./Pic/Thermalconductivity.png" width="400"></div>
    
+<div align="center">Thermal conductivities</div>
+
 **Thermal Resistance to Conduction(R-value)**
 
 $$T=\frac{h}{k}$$
 
 **Conduction Through a Composite Slab**
 
-*Figure*
-
 <div align="center"><img src="./Pic/Thermalconduction.png" width="400"></div>
+
+<div align="center">Figure</div>
 
 > Given that the rates of energy transfer of the two slab are equal 
 
@@ -250,9 +252,9 @@ Thermal radiation is a kind of electromagnetic signals. The rate of radiation:
 
 $$P_{rad}=\sigma \epsilon A T^4$$
 
-$\sigma =5.6704 \times 10^{-8}$ is called Stefan-Boltzman constant , $\epsilon$ represents the emissivity. Which has a value between 0 and 1 , $T$ must be kelvins, $A$ is the surface area.
+> $\sigma =5.6704 \times 10^{-8}$ is called Stefan-Boltzman constant , $\epsilon$ represents the emissivity. Which has a value between 0 and 1 , $T$ must be kelvins, $A$ is the surface area.
 
-If the emisivity of a surface up to 1, it is called *blackbody radiator* (will absorb all the energy that it intercept without reflection)
+> If the emisivity of a surface up to 1, it is called *blackbody radiator* (will absorb all the energy that it intercept without reflection)
 
 The rate of absorbtion at which the object absorb energy via thermal radiation is ($T$ also in kelvins):
 
