@@ -17,6 +17,7 @@
   - [Thermal expension](#thermal-expension)
   - [Aborption of heat](#aborption-of-heat)
   - [The First Law OF Thermodynamics](#the-first-law-of-thermodynamics)
+  - [Heat Transfer Mechanisms](#heat-transfer-mechanisms)
 
 
 
@@ -120,6 +121,11 @@ potential energy|势能
 adiabatic|绝热
 cyclical|循环的
 internal energy|内能
+conduction|传导
+conduction rate|传导率
+thermal conductivity|热传导性
+convection|对流
+emisivity|发射率
 
 
 ## The zeroth law of thermodynamics
@@ -201,7 +207,58 @@ $$dW=\vec{F}\cdot d\vec{l}=(pA)(dl)=pdV \rightarrow W=\int dw=\int ^{v_2}_{v_1}p
 **Internal Energy(First law)**
 
 $$\Delta E_{int}=Q-W$$
+
+## Heat Transfer Mechanisms
+
+**Conduction**
+
+Conduction rate:
+
+$$P_{cond}=\frac{Q}{t}=kA\frac{T_H-T_C}{h}=A\frac{T_H-T_C}{R}$$
+
+in which $k$ is a constant depend on the material of the slab, called *thermal conductivity*, $A$ is the face area of slab, $h$ is the thickness of the slab.
+
+*Figure*
+
+<div align="center"><img src="./Pic/Thermalconduction.png" width="400"></div>
+
+*Thermal conductivity*
+
+<div align="center"><img src="./Pic/Thermalconductivity.png" width="400"></div>
    
+**Thermal Resistance to Conduction(R-value)**
 
+$$T=\frac{h}{k}$$
 
+**Conduction Through a Composite Slab**
+
+*Figure*
+
+<div align="center"><img src="./Pic/Thermalconduction.png" width="400"></div>
+
+> Given that the rates of energy transfer of the two slab are equal 
+
+$$P_{cond}=\frac{A(T_H-T_C)}{\sum  \frac{L}{k}}=\frac{A(T_H-T_C)}{\sum R}$$
+
+**Convection**
+
+Such energy transfer occurs when a fluid, such as air or water, comes in contact with an object whose tem- perature is higher than that of the fluid. The temperature of the part of the fluid that is in contact with the hot object increases, and (in most cases) that fluid expands and thus becomes less dense. Because this expanded fluid is now lighter than the surrounding cooler fluid, buoyant forces cause it to rise. Some of the surrounding cooler fluid then flows so as to take the place of the rising warmer fluid, and the process can then continue.
+
+**Radiation**
+
+Thermal radiation is a kind of electromagnetic signals. The rate of radiation:
+
+$$P_{rad}=\sigma \epsilon A T^4$$
+
+$\sigma =5.6704 \times 10^{-8}$ is called Stefan-Boltzman constant , $\epsilon$ represents the emissivity. Which has a value between 0 and 1 , $T$ must be kelvins, $A$ is the surface area.
+
+If the emisivity of a surface up to 1, it is called *blackbody radiator* (will absorb all the energy that it intercept without reflection)
+
+The rate of absorbtion at which the object absorb energy via thermal radiation is ($T$ also in kelvins):
+
+$$P_{abs} =\sigma \epsilon A T^4_{environment}$$
+
+The net rate of energy exchange is:
+
+$$P_{net}=P_{abs}-P_{rad}$$
 
