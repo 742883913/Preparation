@@ -264,8 +264,10 @@ The net rate of energy exchange is:
 
 $$P_{net}=P_{abs}-P_{rad}$$
 
-<div align="center"><img src="./Pic/RThermal1.png" width="700"></div>
+<div align="center"><img src="./Pic/RThermal3.png" width="700"></div>
 
 <div align="center"><img src="./Pic/RThermal2.png" width="700"></div>
 
-<div align="center"><img src="./Pic/RThermal3.png" width="700"></div>
+<div align="center"><img src="./Pic/RThermal1.png" width="700"></div>
+
+
