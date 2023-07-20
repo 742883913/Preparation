@@ -39,11 +39,6 @@ the limit of f(x), as x approaches a, is infinity|好句子
 the squeeze theorem|夹逼定理
 (dis)continuity|连续性
 (dis)continuous|连续的
-
-
-
-Name|Meaning
----|---
 hyperbola|双曲线
 asymptotes|渐近线
 

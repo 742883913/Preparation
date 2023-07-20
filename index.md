@@ -7,3 +7,7 @@
 [Probability](/Probability.md)
 
 [Calculus](/Calculus.md)
+
+[EN to CN](/Words.md)
+
+[CN to EN](/Translate.md)
