@@ -65,4 +65,20 @@ $$\frac{2n}{2^n \cdot n!}=(2n-1)(2n-3)\cdots 3 \cdot 1$$
 
 $P(A\lvert B)$ is the probability of A given the evidence B.
 
+# Chapter 3: Random Variables and Distributions
+
+Name|Meaning
+---|---
+random variable|随机变量
+discrete random variable|离散型随机变量
+continuous random variable|连续型随机变量
+hybrid|混合
+probability mass function|概率分布函数
+Bernoulli distribution|伯努利分布
+Binomial Distribution|二项分布
+$\sim$|read as be distributed as
+hypergeometric|超几何分布
+Uniform distribution|均匀分布
+cumulative distribution function|分布函数
+convergent|收敛的
 
