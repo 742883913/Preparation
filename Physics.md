@@ -18,6 +18,10 @@
   - [Aborption of heat](#aborption-of-heat)
   - [The First Law OF Thermodynamics](#the-first-law-of-thermodynamics)
   - [Heat Transfer Mechanisms](#heat-transfer-mechanisms)
+- [The Kinetic Theory of Gases](#the-kinetic-theory-of-gases)
+  - [Acogadro's Number](#acogadros-number)
+  - [Ideal Gases](#ideal-gases)
+  - [Pressure, Temperature and RMS Speed](#pressure-temperature-and-rms-speed)
 
 
 
@@ -269,5 +273,56 @@ $$P_{net}=P_{abs}-P_{rad}$$
 <div align="center"><img src="./Pic/RThermal2.png" width="700"></div>
 
 <div align="center"><img src="./Pic/RThermal1.png" width="700"></div>
+
+
+# The Kinetic Theory of Gases
+
+Words|Meaning
+---|---
+macroscopic|宏观
+microscopic|微观
+Avogadro's number|阿伏伽德罗常数
+isothermal expansion|等温膨胀
+isothermal compression|等温压缩
+elastic collision|弹性碰撞
+root-mean-square value|均方根
+translational kinetic energy|平动动能
+
+## Acogadro's Number
+
+The number of mole $n$ equals to :
+
+$$n=\frac{N}{N_A}==\frac{M_{sam}}{M}\frac{M_{sam}}{mN_A}$$
+
+$M$ is the mass of 1 mole, $m$ is the molecular mass.
+
+## Ideal Gases
+
+(1) Ideal gase law
+
+$$pV=nRT=NkT,k=\frac{R}{N_A}$$
+
+$p$ is the pressure, $n$ is the number of moles of the gase, $R$ is the gas constant equals to $8.31$ , $T$ must in Kelvins; $N$ is the number of molecules
+
+(2) Work done by the gase
+
+$$W=\int ^{v_2}_{v_1}pdV=\int ^{v_2}_{v_1}\frac{nRT}{V}dV=\begin{cases}
+  &nRT[\ln V]^{V_2}_{V_1},isothermal\\
+  &p(V_2-V_1),constant-pressure\\
+  &0,constant-volume
+\end{cases}$$
+
+## Pressure, Temperature and RMS Speed
+
+(1) The pressure exerted by $n$ moles of an ideal gas is 
+
+$$p=\frac{nMv^2_{rms}}{3V}$$
+
+where $v_{rms}=\sqrt{(v^2)avg}$ 
+
+(2)The rms speed can be written in terms of the temperature
+
+$$v_{rms}=\sqrt{\frac{3RT}{M}}$$
+
 
 
