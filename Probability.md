@@ -73,7 +73,11 @@ random variable|随机变量
 discrete random variable|离散型随机变量
 continuous random variable|连续型随机变量
 hybrid|混合
+
+Terms of Discrete Distribution|Meaning
+---|---
 probability mass function|概率分布函数
+cumulative distribution function|分布函数
 Bernoulli distribution|伯努利分布
 Binomial Distribution|二项分布
 $\sim$|read as be distributed as
@@ -82,3 +86,11 @@ Uniform distribution|均匀分布
 cumulative distribution function|分布函数
 convergent|收敛的
 
+Terms of Continuous Distribution|Meaning
+---|---
+Probability density function|概率密度
+Cumulative distribution function|分布函数
+Uniform distribution|均匀分布
+Standard normal distribution|标准正态分布
+mean $\mu$ |均值
+variance $\sigma ^2$|方差
