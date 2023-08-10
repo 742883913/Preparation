@@ -123,7 +123,11 @@ $$\begin{split}
 ## Hyperbolic Identities
 
 $$\begin{split}
-  
+  &\sinh (-x)=-\sinh x\\
+  &\cosh (-x)=\cosh x\\
+  &\cosh ^2x -\sinh^2 x=1\\
+  &\sinh (x+y)=\sinh x \cosh y+\cosh x\sinh y\\
+  &
 \end{split}$$
 
 
