@@ -10,6 +10,17 @@
   </script>
 </head>
 
+
+- [Name of Basic Terms](#name-of-basic-terms)
+- [Name of Function](#name-of-function)
+- [Formulas and Qualities](#formulas-and-qualities)
+  - [Formulas for Logarithms and](#formulas-for-logarithms-and)
+  - [inverse function](#inverse-function)
+- [The first Chapter](#the-first-chapter)
+  - [Hyperbolic Functions](#hyperbolic-functions)
+  - [Hyperbolic Identities](#hyperbolic-identities)
+
+
 # Name of Basic Terms
 
 Name|meaning
@@ -40,6 +51,7 @@ the squeeze theorem|夹逼定理
 (dis)continuity|连续性
 (dis)continuous|连续的
 hyperbola|双曲线
+hyperbolic|双曲线的
 asymptotes|渐近线
 
 
@@ -87,7 +99,32 @@ $$\begin{cases}
 
 <div align="center"><img src="./Pic/arctanx.png" width="400"></div>
 
+# The first Chapter
 
+Name|Meaning
+---|---
+derivative|n.导数
+differentiable|可微的
+implicit function|隐函数
+implicit differentiation|隐函数求导
+explicit|显函数
+differentiate the equation with respect to x|关于x微分
+higher derivatives|高阶导数
+the second derivatives|二阶导数
+
+## Hyperbolic Functions 
+
+$$\begin{split}
+  &\sinh x=\frac{e^x-e^{-x}}{2}\\
+  &\cosh x=\frac{e^x+e^{-x}}{2}\\
+  &\tanh x=\frac{\sinh x}{\cosh x}
+\end{split}$$
+
+## Hyperbolic Identities
+
+$$\begin{split}
+  
+\end{split}$$
 
 
  
